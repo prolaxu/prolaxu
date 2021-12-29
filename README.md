@@ -32,7 +32,7 @@
       src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/prolaxu" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/hackerrank.svg"
+      src="https://raw.githubusercontent.com/prolaxu/prolaxu/d42a1dad094b974668ae896b49a448f08c737657/assets/svgs/hackerrank.svg"
       alt="prolaxu" height="30" width="40" /></a>
 </p>
 
@@ -56,7 +56,7 @@
     target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator-icon.svg" alt="illustrator" width="40"
       height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/java-original.svg" alt="java" width="40"
+      src="https://raw.githubusercontent.com/prolaxu/prolaxu/d42a1dad094b974668ae896b49a448f08c737657/assets/svgs/java-original.svg" alt="java" width="40"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/javascript-original.svg"
@@ -65,12 +65,12 @@
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/nestjs-plain.svg" alt="nestjs"
+      src="https://raw.githubusercontent.com/prolaxu/prolaxu/d42a1dad094b974668ae896b49a448f08c737657/assets/svgs/nestjs-plain.svg" alt="nestjs"
       width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/photoshop-line.svg" alt="photoshop"
+      src="https://raw.githubusercontent.com/prolaxu/prolaxu/d42a1dad094b974668ae896b49a448f08c737657/assets/svgs/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
