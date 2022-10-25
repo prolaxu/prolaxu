@@ -2,11 +2,11 @@
 <h3 align="center">Self Taught Developer🌟.</h3>
 
 <br>
-
+[![@prolaxu's Holopin board](https://holopin.me/prolaxu)](https://holopin.io/@prolaxu)
+<br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=prolaxu&label=Profile%20views&color=0e75b6&style=flat"
     alt="prolaxu" /> 
   </p>
-
 <br>
 
 <p><img align="right" src="https://raw.githubusercontent.com/prolaxu/prolaxu/main/assets/animation.gif" alt="prolaxu" /></p>
