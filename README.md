@@ -86,16 +86,17 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=prolaxu&show_icons=true&locale=en&layout=compact"
     alt="prolaxu" /></p>
 
-<br>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prolaxu&show_icons=true&locale=en"
-    alt="prolaxu" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prolaxu&" alt="prolaxu" /></p>
+<!--stat -->
+<img  src="https://github-readme-stats.vercel.app/api?username=prolaxu&show_icons=true&theme=gradient" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=prolaxu&theme=gradient" width="48%" >
 
 <br>
+
+<!--githuv contribution graph-->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=prolaxu&theme=react-light" width="100%" align="center"/>
+
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=prolaxu" alt="prolaxu" /></a> </p>
