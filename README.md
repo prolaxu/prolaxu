@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandesh Khadka</h1>
+<h1 align="center">Hi 👋, I'm Laxman Adhikari</h1>
 <h3 align="center">Self Taught Developer🌟.</h3>
 
 <br>
