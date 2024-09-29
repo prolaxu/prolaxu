@@ -12,11 +12,9 @@
 <p><img align="right" src="https://raw.githubusercontent.com/prolaxu/prolaxu/main/assets/animation.gif" alt="prolaxu" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently working as Full stack Laravel/Vue.js Developer
 
 - 📫 How to reach me **adhikarilaxu0001@gmail.com**
-
-- ⚡ Fun fact :- food and anime are the reasons to live.
 
 <br>
 
