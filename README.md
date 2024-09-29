@@ -64,16 +64,6 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=prolaxu&show_icons=true&locale=en&layout=compact"
     alt="prolaxu" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prolaxu&show_icons=true&locale=en"
-    alt="prolaxu" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prolaxu&" alt="prolaxu" /></p>
-
 <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
