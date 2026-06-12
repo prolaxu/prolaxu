@@ -1,77 +1,69 @@
-<h1 align="center">Hi 👋, I'm Laxman Adhikari</h1>
-<h3 align="center">Self Taught Developer🌟.</h3>
+<div align="center">
 
-<br>
-<img src="https://www.holopin.me/prolaxu">
-<br>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=prolaxu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="prolaxu" /> 
-  </p>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=415a77&height=120&section=header&text=Laxman%20Adhikari&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Senior%20Full-Stack%20Developer%20%C2%B7%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=65&descSize=14" width="100%"/>
 
-<p><img align="right" src="https://raw.githubusercontent.com/prolaxu/prolaxu/main/assets/animation.gif" alt="prolaxu" /></p>
-
-
-- 🌱 I’m currently working as Full stack Laravel/Vue.js Developer
-
-- 📫 How to reach me **adhikarilaxu0001@gmail.com**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/prolaxu" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/linked-in-alt.svg"
-      alt="prolaxu" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/b2176b4e589355535bc69f84b4b10462802c414e/assets/svgs/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/prolaxu" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/prolaxu/prolaxu/d42a1dad094b974668ae896b49a448f08c737657/assets/svgs/hackerrank.svg"
-      alt="prolaxu" height="30" width="40" /></a>
+<p>
+  <a href="https://laxman-adhikari.com.np"><img src="https://img.shields.io/badge/Portfolio-laxman--adhikari.com.np-415a77?style=flat-square&logo=globe&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/laxu-adhikari"><img src="https://img.shields.io/badge/LinkedIn-laxu--adhikari-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adhikarilaxu0001@gmail.com"><img src="https://img.shields.io/badge/Email-adhikarilaxu0001-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=prolaxu&label=Profile+Views&color=415a77&style=flat-square"/>
 </p>
 
-<br>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-     <img
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
-      alt="python" width="40" height="40" />  
-     <img
-      src="https://cdn-icons-png.flaticon.com/512/732/732212.png"
-      alt="html" width="40" height="40" />  
-      <img
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"
-      alt="php" width="40" height="40" />  
-      <img
-      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png"
-      alt="html" width="40" height="40" />  
-      <img
-      src="https://cdnlogo.com/logos/l/57/laravel.svg"
-      alt="larvel" width="40" height="40" />  
-      <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1AvoJXu1NMIvNfwIWMLEX0xp7ZyQ11RjoQ&s"
-      alt="vuejs" width="40" height="40" />  
-    </p>
+---
 
-<br>
+### Namaste 🙏 I'm Laxman
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=prolaxu&show_icons=true&locale=en&layout=compact"
-    alt="prolaxu" /></p>
-<br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=prolaxu" alt="prolaxu" /></a> </p>
+Senior full-stack developer from Nepal with **5+ years** building scalable Laravel & Vue.js systems — from multi-tenant platforms to real-time apps serving **1M+ users**. Currently at **Sociair**, Kathmandu.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
+### 🛠 Stack
 
-------------------------------------------------------------------------------------------------------------------------------------------
-[prolaxu](https://github.com/prolaxu)
+**Backend**
+`PHP` `Laravel` `Node.js` `Go` `Python`
+
+**Frontend**
+`Vue.js` `Nuxt 3` `TypeScript` `Tailwind CSS` `Flutter`
+
+**Data & Infra**
+`MySQL` `MongoDB` `Redis` `Linux` `CI/CD` `WebAssembly` `HLS/RTMP`
+
+---
+
+### 📌 Pinned Projects
+
+| | Project | What it does | Lang |
+|---|---|---|---|
+| 🪐 | [**swisseph-wasm**](https://github.com/prolaxu/swisseph-wasm) ⭐ 34 · 🍴 7 | Swiss Ephemeris compiled to WASM — professional astronomical & astrological calculations in JavaScript | JS |
+| 📱 | [**flutter-kit**](https://github.com/prolaxu/flutter-kit) | JSON-driven Flutter renderer. Define UI in PHP, never write widgets — it builds every screen, route and store at runtime | Dart |
+| 🐘 | [**flutter-php**](https://github.com/prolaxu/flutter-php) | Build Flutter UIs entirely from PHP. Your app lives in `app/MobileUI/` — paired with Flutter Kit | PHP |
+| 📡 | [**go-live**](https://github.com/prolaxu/go-live) | Ingests RTMP streams (OBS etc.), segments to HLS, uploads to Bunny CDN, serves playlist URLs to clients | Go |
+| 📄 | [**open-resume-pdf-parser**](https://github.com/prolaxu/open-resume-pdf-parser) | Standalone TS library for extracting structured resume data from PDF files | TS |
+| 📖 | [**openapi-docs-generator**](https://github.com/prolaxu/openapi-docs-generator) ⭐ 1 | CLI tool that auto-generates OpenAPI 3.0 docs from JS/TS source by parsing JSDoc & OpenAPI annotations | JS |
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=prolaxu&layout=compact&hide_border=true&theme=default&langs_count=8"/>
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=prolaxu&show_icons=true&hide_border=true&theme=default&count_private=true&hide_rank=false"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prolaxu&theme=flat&no-frame=true&column=6&margin-w=8"/>
+</div>
+
+---
+
+### 🤝 Connect
+
+<a href="https://linkedin.com/in/laxu-adhikari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/laxu_adhikari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/prolaxu"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+<a href="https://laxman-adhikari.com.np"><img src="https://img.shields.io/badge/Portfolio-415a77?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=415a77&height=80&section=footer" width="100%"/>
